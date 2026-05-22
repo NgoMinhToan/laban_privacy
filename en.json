@@ -1,0 +1,73 @@
+{
+  "header": {
+    "subtitle": "Laban App Privacy Policy",
+    "effectiveDate": "Last updated: May 22, 2026"
+  },
+  "toc": {
+    "title": "📑 Table of Contents",
+    "items": [
+      { "id": "intro", "label": "Introduction" },
+      { "id": "data", "label": "Data Collected" },
+      { "id": "usage", "label": "Purpose" },
+      { "id": "permissions", "label": "Permissions" },
+      { "id": "contact", "label": "Contact" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "num": "1",
+      "title": "Introduction",
+      "content": [
+        { "type": "paragraph", "html": "Laban is a digital compass app developed by <strong>Google AI</strong>. We prioritize your privacy and are committed to protecting user data." }
+      ]
+    },
+    {
+      "id": "data",
+      "num": "2",
+      "title": "Data Collected",
+      "content": [
+        { "type": "paragraph", "html": "The Laban app collects the following types of data to operate core features:" },
+        { "type": "list", "items": [
+          "Precise location information (GPS).",
+          "Device sensor data (accelerometer, gyroscope, magnetometer) to determine direction and movement."
+        ] }
+      ]
+    },
+    {
+      "id": "usage",
+      "num": "3",
+      "title": "Purpose",
+      "content": [
+        { "type": "paragraph", "html": "We use the data to provide features such as:" },
+        { "type": "list", "items": [
+          "Real-time compass display.",
+          "Direction Lock feature.",
+          "Displaying sensor data such as magnetic field strength and GPS satellite coordinates.",
+          "Enhancing user experience with Material Design."
+        ] }
+      ]
+    },
+    {
+      "id": "permissions",
+      "num": "4",
+      "title": "Permissions",
+      "content": [
+        { "type": "paragraph", "html": "The app requires the following permissions:" },
+        { "type": "list", "items": [
+          "<strong>Location:</strong> To display GPS coordinates and satellite information.",
+          "<strong>Device Sensors:</strong> To detect device direction and movement to rotate the compass."
+        ] }
+      ]
+    },
+    {
+      "id": "contact",
+      "num": "5",
+      "title": "Contact",
+      "content": [
+        { "type": "paragraph", "html": "If you have any questions, please contact us at:" },
+        { "type": "contact", "email": "mtoan2610@gmail.com" }
+      ]
+    }
+  ]
+}

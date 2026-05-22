@@ -1,0 +1,73 @@
+{
+  "header": {
+    "subtitle": "Chính sách bảo mật ứng dụng Laban",
+    "effectiveDate": "Cập nhật lần cuối: 22 tháng 05, 2026"
+  },
+  "toc": {
+    "title": "📑 Mục lục",
+    "items": [
+      { "id": "intro", "label": "Giới thiệu" },
+      { "id": "data", "label": "Dữ liệu thu thập" },
+      { "id": "usage", "label": "Mục đích sử dụng" },
+      { "id": "permissions", "label": "Quyền truy cập" },
+      { "id": "contact", "label": "Liên hệ" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "intro",
+      "num": "1",
+      "title": "Giới thiệu",
+      "content": [
+        { "type": "paragraph", "html": "Laban là ứng dụng la bàn kỹ thuật số được phát triển bởi <strong>Google AI</strong>. Chúng tôi ưu tiên quyền riêng tư của bạn và cam kết bảo vệ dữ liệu người dùng." }
+      ]
+    },
+    {
+      "id": "data",
+      "num": "2",
+      "title": "Dữ liệu thu thập",
+      "content": [
+        { "type": "paragraph", "html": "Ứng dụng Laban thu thập các loại dữ liệu sau để vận hành các tính năng cốt lõi:" },
+        { "type": "list", "items": [
+          "Thông tin vị trí chính xác (GPS).",
+          "Dữ liệu cảm biến thiết bị (gia tốc kế, con quay hồi chuyển, từ kế) để xác định hướng và chuyển động."
+        ] }
+      ]
+    },
+    {
+      "id": "usage",
+      "num": "3",
+      "title": "Mục đích sử dụng",
+      "content": [
+        { "type": "paragraph", "html": "Chúng tôi sử dụng dữ liệu để cung cấp các tính năng như:" },
+        { "type": "list", "items": [
+          "Hiển thị la bàn thời gian thực.",
+          "Khóa hướng (Direction Lock).",
+          "Hiển thị thông tin cảm biến như cường độ từ trường và tọa độ vệ tinh GPS.",
+          "Cải thiện trải nghiệm người dùng với thiết kế Material Design."
+        ] }
+      ]
+    },
+    {
+      "id": "permissions",
+      "num": "4",
+      "title": "Quyền truy cập",
+      "content": [
+        { "type": "paragraph", "html": "Ứng dụng cần các quyền sau:" },
+        { "type": "list", "items": [
+          "<strong>Vị trí:</strong> Để hiển thị tọa độ GPS và thông tin vệ tinh.",
+          "<strong>Cảm biến thiết bị:</strong> Để phát hiện hướng và chuyển động của thiết bị nhằm xoay la bàn."
+        ] }
+      ]
+    },
+    {
+      "id": "contact",
+      "num": "5",
+      "title": "Liên hệ",
+      "content": [
+        { "type": "paragraph", "html": "Nếu bạn có câu hỏi, vui lòng liên hệ:" },
+        { "type": "contact", "email": "mtoan2610@gmail.com" }
+      ]
+    }
+  ]
+}
